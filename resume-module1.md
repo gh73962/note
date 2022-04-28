@@ -1,9 +1,9 @@
 # 基本资料
 
-| 姓        名：   | 小于   | 手  机  号：   | 13112345678 | 邮      箱：   | 163@163.com        |
-| ---------------- | ------ | -------------- | ----------- | -------------- | ------------------ |
-| **出生日期：**   | 1992   | **婚姻情况：** | 未婚        | **是否在职：** | 是                 |
-| **经       验:** | Go/4年 | **学    历:**  | 本科        | **博     客:** | https://github.com |
+| 姓        名：   | 小于   | 手  机  号：   | 13112345678 |
+| ---------------- | ------ | -------------- | ----------- |
+| **出生日期：**   | 1992   | **是否在职：** | 是          |
+| **经       验:** | Go/4年 | **学    历:**  | 本科        |
 # 职业技能
 
 ##### **Web&&微服务：**
@@ -18,18 +18,21 @@
 * 熟悉GPM运行时调度、内存分配、垃圾回收等机制
 * 对Go并发(context、mutex、channel、goroutine等)、安全编程有深入的研究、理解和运用
 
-##### **Coding:**
+##### **Source Code Read:**
 
-* 具有良好的编码习惯，熟练的使用UML进行面向对象的分析和设计、代码洁癖，追求代码简洁极致
-* 熟悉面向对象的设计原则(SOLID)和常用设计模式(Single、Factory、Adapter、Observer)
-* 有TDD、DDD、代码重构调优的经验
+* go.uber.org/automaxprocs
+* golang.org/x/sync/singleflight
+* github.com/asim/go-micro/plugins/client/grpc/v3/
+* runtime/map.go
+* runtime/select.go
 
-##### **Docker&&Kubernetes:**
 
-* 熟悉容器化技术概念和原理
-* 了解K8s的常用组件，熟悉Kubernetes架构和原理，掌握Kubernetes部署方式，熟悉企业监控和集群架构方案
-* 熟悉Pod的调度流程、熟悉K8s的网络实现、熟悉Kubernetes服务发现机制和实现
-* 熟练使用K8s进行服务编排
+##### **Paper Learning:**
+
+* 《In Search of an Understandable Consensus Algorithm》--raft
+* 《Implementing Remote Procedure Calls》
+* 《ImageNet Classification with Deep Convolutional Neural Networks》-alexNet
+* 《Evaluating Large Language Models Trained on Code》-- codex
 
 ##### **Other:**
 
@@ -41,18 +44,9 @@
 * 了解熟悉各种分布式理论(BASE、CAP、2PC)，具有各种分布式技术的实战和分布式系统架构设计能力：负载均衡(hash、rand、roundrobin、load、session)、分布式锁、分布式事务(seata)、分布式任务调度系统、分布式缓存系统、分布式文件系统、分布式日志监控(ELK)
 * 具备项目管理的能力：项目排期、严格项目质量把控、风控控制等
 
-# 自我评价
-
-* 具备良好的沟通、协作、学习能力；
-* 能够项目中主动在承担起责任；具有Owner(主R)意识
-* 有较强的问题排查(TroubleShooting)和解决能力
-* 关注前沿技术
-
 # 教育经历
 
 | 2013.09 — 2017.06 | 北京大学 | 计算机与科学技术 |
-| ----------------- | -------- | ---------------- |
-|                   |          |                  |
 
 # 工作经历
 

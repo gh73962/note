@@ -14,3 +14,6 @@ set nu
 set tabstop=4
 set wildmenu
 ```
+
+## Other
+nohup xxxx > ./nohup.out 2>&1 &
