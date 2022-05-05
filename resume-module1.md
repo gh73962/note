@@ -29,9 +29,9 @@
 
 ##### **Paper Learning:**
 
-* 《In Search of an Understandable Consensus Algorithm》--raft
+* 《In Search of an Understandable Consensus Algorithm》-- raft
 * 《Implementing Remote Procedure Calls》
-* 《ImageNet Classification with Deep Convolutional Neural Networks》-alexNet
+* 《ImageNet Classification with Deep Convolutional Neural Networks》-- alexNet
 * 《Evaluating Large Language Models Trained on Code》-- codex
 
 ##### **Other:**
