@@ -219,11 +219,13 @@ but first let's see what the existence of the slice header means when you
 program with slices.
 
 ## Passing slices to functions
+将切片传入函数
 
 It's important to understand that even though a slice contains a pointer,
 it is itself a value.
 Under the covers, it is a struct value holding a pointer and a length.
 It is _not_ a pointer to a struct.
+
 
 This matters.
 
